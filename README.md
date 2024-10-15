@@ -10,7 +10,6 @@ This is a simple Task Manager built with React.js that allows users to add, edit
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -47,11 +46,6 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
 
-   Or if you're using `yarn`:
-
-   ```bash
-   yarn install
-   ```
 
 ### Usage
 
@@ -61,11 +55,6 @@ Once the dependencies are installed, you can start the app in development mode:
 npm start
 ```
 
-Or:
-
-```bash
-yarn start
-```
 
 Open your browser and visit `http://localhost:3000` to view the app.
 
@@ -77,11 +66,6 @@ To create a production build, run:
 npm run build
 ```
 
-Or:
-
-```bash
-yarn build
-```
 
 ## Contributing
 
@@ -93,15 +77,7 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-### Optional Sections (Add if applicable)
-- **Screenshots**: You can include screenshots of your app.
-- **Known Issues**: Mention any known bugs or limitations.
-- **Technologies Used**: Mention any other libraries, frameworks, or tools used in the project.
-  
-Feel free to customize this template to fit the specific needs of your project!
+

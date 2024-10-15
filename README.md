@@ -16,7 +16,7 @@ This is a simple Task Manager built with React.js that allows users to add, edit
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
-- Responsive UI
+
 
 ## Getting Started
 
